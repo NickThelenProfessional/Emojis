@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "name": "red heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/2764.svg",
+    "description": "A classic red love heart emoji, used for expressions of love and romance."
+  },
+  {
+    "id": 2,
+    "name": "pink heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1FA77.svg",
+    "description": "A plain pink heart, often used alongside other hearts."
+  },
+  {
+    "id": 3,
+    "name": "orange heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F9E1.svg",
+    "description": "An orange heart emoji, often used alongside other colored hearts."
+  },
+  {
+    "id": 4,
+    "name": "yellow heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F49B.svg",
+    "description": "A yellow or gold colored heart, frequently used alongside other hearts."
+  },
+  {
+    "id": 5,
+    "name": "green heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F49A.svg",
+    "description": "A green heart emoji, often used alongside other colored hearts."
+  },
+  {
+    "id": 6,
+    "name": "blue heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F499.svg",
+    "description": "A blue heart emoji, commonly used by brands as a neutral heart color."
+  },
+  {
+    "id": 7,
+    "name": "light blue heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1FA75.svg",
+    "description": "A light blue heart, frequently used alongside other hearts."
+  },
+  {
+    "id": 8,
+    "name": "purple heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F49C.svg",
+    "description": "A purple heart emoji, often used alongside other colored hearts."
+  },
+  {
+    "id": 9,
+    "name": "brown heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F90E.svg",
+    "description": "A brown heart, often used to discuss topics related to racial identity."
+  },
+  {
+    "id": 10,
+    "name": "black heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F5A4.svg",
+    "description": "A heart shaded completely black, used to express morbidity, sorrow, or dark humor."
+  },
+  {
+    "id": 11,
+    "name": "grey heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1FA76.svg",
+    "description": "A grey heart, frequently used alongside other hearts."
+  },
+  {
+    "id": 12,
+    "name": "white heart",
+    "category": "smileys-emotion",
+    "imageURL": "https://openmoji.org/data/color/svg/1F90D.svg",
+    "description": "A white heart emoji, used for love and affection."
+  },
+  {
+    "id": 13,
+    "name": "dog",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F415.svg",
+    "description": "A dog, a faithful, beloved pet canine."
+  },
+  {
+    "id": 14,
+    "name": "cat",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F408.svg",
+    "description": "A domestic cat, beloved as a pet."
+  },
+  {
+    "id": 15,
+    "name": "tiger",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F405.svg",
+    "description": "A tiger, a large cat with an orange coat and black stripes."
+  },
+  {
+    "id": 16,
+    "name": "leopard",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F406.svg",
+    "description": "A leopard, a large cat with a yellowish-brown coat and black-and-gold spots."
+  },
+  {
+    "id": 17,
+    "name": "donkey",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1FACF.svg",
+    "description": "A grey donkey or mule, shown in full profile."
+  },
+  {
+    "id": 18,
+    "name": "horse",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F40E.svg",
+    "description": "A horse, a hoofed mammal used for riding and racing."
+  },
+  {
+    "id": 19,
+    "name": "zebra",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F993.svg",
+    "description": "A zebra, a horse-like mammal with black-and-white stripes."
+  },
+  {
+    "id": 20,
+    "name": "deer",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F98C.svg",
+    "description": "A deer, a fleet-footed, hoofed mammal whose males generally have antlers."
+  },
+  {
+    "id": 21,
+    "name": "bison",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F9AC.svg",
+    "description": "A brown bison shown in full profile with horns, a beard, and woolly mane."
+  },
+  {
+    "id": 22,
+    "name": "ox",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F402.svg",
+    "description": "An ox, a bovine used as a draft animal."
+  },
+  {
+    "id": 23,
+    "name": "water buffalo",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F403.svg",
+    "description": "A water buffalo, a bovine used to plough rice fields in parts of Asia."
+  },
+  {
+    "id": 24,
+    "name": "cow",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F404.svg",
+    "description": "A cow, a bovine farmed for its meat or milk."
+  },
+  {
+    "id": 25,
+    "name": "pig",
+    "category": "animals-nature",
+    "imageURL": "https://openmoji.org/data/color/svg/1F416.svg",
+    "description": "A pig, a plump animal farmed for its meat, such as bacon."
+  }
+]
